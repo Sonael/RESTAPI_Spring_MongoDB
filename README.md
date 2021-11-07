@@ -1,4 +1,4 @@
-# RESTAPI Spring MongoDB
+# REST API Spring MongoDB
 API REST usando Spring junto com o MongoDB database e o Swagger.
 
 ## Requerimentos:
