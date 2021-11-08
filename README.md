@@ -1,5 +1,5 @@
 # REST API Spring MongoDB
-API REST usando Spring junto com o MongoDB database e o Swagger.
+API REST usando Spring junto com o MongoDB(locally) e o Swagger.
 
 ## Requerimentos:
 * MongoDB database On-premises (locally)
